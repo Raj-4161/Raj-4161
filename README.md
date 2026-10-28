@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raj Mane</h1>
 
 <h3 align="center">
-  Java Full Stack Developer | AI & Machine Learning Enthusiast
+  Java Full Stack Developer | AI & Data Science Enthusiast
 </h3>
 
 <p align="center">
@@ -88,24 +88,6 @@ An AI-powered customer churn prediction project that uses customer data to ident
 A project focused on making preparation and learning more efficient with the help of technology and AI.
 
 **Technologies:** Add the actual technologies used in your project.
-
-🔗 [View Repository](https://github.com/Raj-4161)
-
----
-
-### 3. 🛡️ Nirbhaya — Online Crime Reporting System
-
-A web application designed to help users submit crime complaints and access complaint-related information.
-
-**Key Highlights**
-
-* User registration and login.
-* JWT-based authentication.
-* Crime complaint submission.
-* REST API integration.
-* MySQL database integration.
-
-**Technologies:** Java, Spring Boot, MySQL, REST APIs, JWT.
 
 🔗 [View Repository](https://github.com/Raj-4161)
 
